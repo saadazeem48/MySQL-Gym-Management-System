@@ -529,7 +529,7 @@ INSERT INTO Payment (member_id, membership_plan_id, amount, payment_date) VALUES
 (17, 17, 6000, '2023-03-20'), (18, 18, 20000, '2023-03-25'),
 (19, 19, 30000, '2023-04-01'), (20, 20, 25000, '2023-04-05');
 
--- QUERIES			
+-- Sample QUERIES 			
 
 SELECT * FROM Member;
 
@@ -571,15 +571,3 @@ JOIN Member M ON E.member_id = M.member_id
 JOIN Class C ON E.class_id = C.class_id
 WHERE C.class_id = 1;  -- Change the class_id for different data of classes required
 
-
--- -----------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
--- DESCRIBE Class;
