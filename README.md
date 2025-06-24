@@ -16,7 +16,7 @@ This project contains the full SQL schema and sample data for a Gym Management S
   - Database and table creation
   - Relationships and constraints
   - Sample data insertions
-  - Useful SELECT queries
+  - Useful queries
 
 ## How to Use
 
