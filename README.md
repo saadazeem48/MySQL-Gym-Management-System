@@ -34,4 +34,4 @@ This project contains the full SQL schema and sample data for a Gym Management S
 
 ## Author
 
-- Muhammad Saad Azeem 
+ Saad Azeem 
